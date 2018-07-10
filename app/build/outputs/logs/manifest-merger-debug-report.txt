@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\cb4601a90dfe5a44f023cc3fa98fe40e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e91702a953a3022218792b420d9233ef\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2afaec5d1e2a0cbbbec14106c7086458\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b18e2ff80703a617236778da22ef2d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\d97d8f6c568aad8bd8550c9f6883a877\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\1fc22e949b1cc85d4d23827161d04d4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\ca000dbb37cc9d606e27b1fc3bf5945e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\05da2608e860bca5b419d319430758ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\501482628b94a3cbd65c144ca8f808b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\1eba0cf7e1ac87bee97b305e9b96b0f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\a73d0ab4c80a6c2c5bcbf954f3df4fc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\9954dbe110a2db7ef2ba7ff6e906d5de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\03054c9560ddcc01d430e2b6c1a2b496\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\50bc4e3f545fd783d0e5e463ebfc1ff2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\16c82de58539af519823264a5dd3e8f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\e9a326229bcd8dc31758997f6672336d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f5af1ae41ca47a18484b3e40a96b66d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fca98a85de5a48db2c452cbde267d8eb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\99bd213074b9ca4cc12cb60909c37694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\3de19c9d53d96a0fc806b9c20c5f8fa4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\86c67f0d9c2c732188a73922c473889d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5e63fbbc28c0d7549e71bfec03e780f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3e9917aeab705ba7afa6b73b62c08c2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b87a8b295d744d88f34baff849d3a3be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\6df61409954febad51a97eb2d650f101\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:6:22-67
+application
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e91702a953a3022218792b420d9233ef\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e91702a953a3022218792b420d9233ef\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fca98a85de5a48db2c452cbde267d8eb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fca98a85de5a48db2c452cbde267d8eb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#in.codingninjas.envision.expensemanager.MainActivity
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#in.codingninjas.envision.expensemanager.ShowDetailsActivity
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:22:19-54
+activity#in.codingninjas.envision.expensemanager.EditExpenseActivity
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:23:19-54
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:24:13-30:29
+action#android.intent.action.SEND
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:25:25-66
+data
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:27:17-55
+	android:mimeType
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:27:23-52
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:29:27-73
+activity#in.codingninjas.envision.expensemanager.SettingsActivity
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:32:19-51
+receiver#in.codingninjas.envision.expensemanager.Receivers.SMSReceiver
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:enabled
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:35:13-50
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:38:13-40:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:39:25-79
+receiver#in.codingninjas.envision.expensemanager.Receivers.AlarmReceiver
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:enabled
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:44:13-52
+receiver#in.codingninjas.envision.expensemanager.Receivers.BootCompletedReceiver
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:49:9-56:20
+	android:enabled
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:50:13-60
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:54:25-76
+uses-sdk
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\cb4601a90dfe5a44f023cc3fa98fe40e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\cb4601a90dfe5a44f023cc3fa98fe40e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e91702a953a3022218792b420d9233ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e91702a953a3022218792b420d9233ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2afaec5d1e2a0cbbbec14106c7086458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\2afaec5d1e2a0cbbbec14106c7086458\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b18e2ff80703a617236778da22ef2d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\b18e2ff80703a617236778da22ef2d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\d97d8f6c568aad8bd8550c9f6883a877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\d97d8f6c568aad8bd8550c9f6883a877\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\1fc22e949b1cc85d4d23827161d04d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\1fc22e949b1cc85d4d23827161d04d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\ca000dbb37cc9d606e27b1fc3bf5945e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\ca000dbb37cc9d606e27b1fc3bf5945e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\05da2608e860bca5b419d319430758ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\05da2608e860bca5b419d319430758ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\501482628b94a3cbd65c144ca8f808b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\501482628b94a3cbd65c144ca8f808b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\1eba0cf7e1ac87bee97b305e9b96b0f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\1eba0cf7e1ac87bee97b305e9b96b0f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\a73d0ab4c80a6c2c5bcbf954f3df4fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\a73d0ab4c80a6c2c5bcbf954f3df4fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\9954dbe110a2db7ef2ba7ff6e906d5de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\9954dbe110a2db7ef2ba7ff6e906d5de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\03054c9560ddcc01d430e2b6c1a2b496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\03054c9560ddcc01d430e2b6c1a2b496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\50bc4e3f545fd783d0e5e463ebfc1ff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\50bc4e3f545fd783d0e5e463ebfc1ff2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\16c82de58539af519823264a5dd3e8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\16c82de58539af519823264a5dd3e8f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\674e7a43d3b775cf14c5c77beca198cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\e9a326229bcd8dc31758997f6672336d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\e9a326229bcd8dc31758997f6672336d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f5af1ae41ca47a18484b3e40a96b66d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f5af1ae41ca47a18484b3e40a96b66d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fca98a85de5a48db2c452cbde267d8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fca98a85de5a48db2c452cbde267d8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\99bd213074b9ca4cc12cb60909c37694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\99bd213074b9ca4cc12cb60909c37694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\3de19c9d53d96a0fc806b9c20c5f8fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\3de19c9d53d96a0fc806b9c20c5f8fa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\86c67f0d9c2c732188a73922c473889d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\86c67f0d9c2c732188a73922c473889d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5e63fbbc28c0d7549e71bfec03e780f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e5e63fbbc28c0d7549e71bfec03e780f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3e9917aeab705ba7afa6b73b62c08c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3e9917aeab705ba7afa6b73b62c08c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b87a8b295d744d88f34baff849d3a3be\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b87a8b295d744d88f34baff849d3a3be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\6df61409954febad51a97eb2d650f101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\TC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\6df61409954febad51a97eb2d650f101\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TC\Desktop\CN\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
